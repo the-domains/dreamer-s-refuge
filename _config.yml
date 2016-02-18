@@ -1,0 +1,28 @@
+name: "Dreamer's Refuge"
+favicon: null
+layout_spectrum: 0.2588074852246791
+typography_spectrum: 0.304186039371416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.42566091124899685
+  lightness: 0.1550034291576594
+  saturation: 0.4113883743993938
+  rhythmicContrast: 0.13428710750304163
+purpose: []
