@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dreamer's Refuge]]></title>
         <description><![CDATA[Dreamer's Refuge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dreamer-s-refuge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 20:37:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 19:47:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dreamer-s-refuge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Importance of the Five Precepts]]></title>
+            <description><![CDATA[<article><h1>The Importance of the Five Precepts</h1><p>In IMS/IMC they have yet to bring up why the five precepts are important, or why the hindrances stop you from progressing in meditation, and how all of this ties in with Dependent Origination. And all of those things are really important to the teachings of the Buddha. “Whoever sees dependent co-arising sees the Dhamma; whoever sees the Dhamma sees dependent co-arising.” </p></article>]]></description>
+            <link>https://www.samharris.org/forum/viewthread/67790/P105/</link>
+            <guid isPermaLink="false">8c4026c6-2091-42c1-80bb-175d3be0218d</guid>
+            <pubDate>Fri, 19 Feb 2016 19:47:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb5b03e0-6ef2-439b-9cd5-44e8a4644187.jpg">]]></description>
-            <link>undefined2abbf423-3a1c-4ad6-9ffb-2cef3793b160/index.html</link>
+            <link>https://thegrid.ai/dreamer-s-refuge/2abbf423-3a1c-4ad6-9ffb-2cef3793b160/index.html</link>
             <guid isPermaLink="false">2abbf423-3a1c-4ad6-9ffb-2cef3793b160</guid>
             <pubDate>Thu, 18 Feb 2016 20:36:50 GMT</pubDate>
         </item>
